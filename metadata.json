@@ -1,0 +1,6 @@
+{
+  "name": "Super Marine - Elite Port Agency & Chandlery Services",
+  "description": "Super Marine is Pakistan's leading ship chandler, technical repairs, and maritime supplies partner serving Karachi Port Trust (KPT) and Port Qasim (PQA) 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
